@@ -48,11 +48,36 @@
     correctAnswer: "Bainbridge Island",
   },
 
-  {},
+  {
+    question:
+      "Seattlites love their puppies!  There are more dogs in this city, according to the last census data than:",
+    incorrectAnswers: ["Cars", "Grocery stores", "Trails"],
+    correctAnswer: "Children",
+  },
 
-  {},
+  {
+    question:
+      "The Emerald City was founded in 1851, and it's oldest neighborhood is",
+    incorrectAnswers: ["Beacon Hill", "Greenlake", "Central District"],
+    correctAnswer: "Georgetown",
+  },
 
-  {},
+  {question: "Seattle recycles-A LOT. What percentage of the city's waste is recycled annually?",
+    incorrectAnswers: [
+        "30%",
+        "51%",
+        "42%"
+    ], 
+    correctAnswer: "60%"
+  },
 
-  {},
+  {question: "Seattle doesn't really get as much rainfall as many of us locals might think.  In fact, Seattle ranks _____ in average rainfall in America!",
+    incorrectAnswers: [
+        "51st",
+        "17th", 
+        "5th",
+],
+correctAnswer: "32nd"
+
+  },
 ];

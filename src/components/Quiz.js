@@ -1,5 +1,12 @@
+import question from "./Question";
+
 const Quiz = () => {
-return <div>Quiz</div>
-}
+  return (
+    <div className="quiz">
+        <question />
+      </div>
+ 
+  );
+};
 
 export default Quiz;

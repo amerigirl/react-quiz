@@ -1,4 +1,4 @@
-[
+const data = [
   {
     question:
       "What mountain is visible from the West Seattle Bridge on a clear day?",
